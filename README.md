@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning Html, css, Javascript, Python, MongoDB
 - 💞️ I’m looking to collaborate on Flask or Django Projects
-- 📫 How to reach me mbarga_fr@yahoo.fr
+- 📫 How to reach me herve.mbarga@gmail.com
 
 <!---
 hervembarga/hervembarga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
